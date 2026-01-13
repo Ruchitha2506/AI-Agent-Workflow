@@ -56,3 +56,7 @@ Update:
  - Spreadsheet ID
  - Email recipient
  - Activate the workflow
+
+**Workflow Architecture**
+![Workflow Architecture](workflow.png)
+
