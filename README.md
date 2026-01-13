@@ -58,5 +58,5 @@ Update:
  - Activate the workflow
 
 **Workflow Architecture**
-![Workflow.png](workflow.png)
+![Workflow.png](Workflow.png)
 
